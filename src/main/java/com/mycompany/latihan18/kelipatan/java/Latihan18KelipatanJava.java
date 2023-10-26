@@ -9,7 +9,8 @@ package com.mycompany.latihan18.kelipatan.java;
  * @author User
  nama : Zalfa Rosiyah Riski 
  nim : 22205011
- prodi : Teknik Informatika 
+ prodi : Teknik Informatika
+ Deskripsi : Program menampilkan bilangan kelipan 3,5 dimulai dari 3,5 sampai dengan 35
  */
 public class Latihan18KelipatanJava {
 
