@@ -7,6 +7,9 @@ package com.mycompany.latihan18.kelipatan.java;
 /**
  *
  * @author User
+ nama : Zalfa Rosiyah Riski 
+ nim : 22205011
+ prodi : Teknik Informatika 
  */
 public class Latihan18KelipatanJava {
 
